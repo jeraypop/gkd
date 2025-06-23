@@ -73,7 +73,7 @@ android {
         minSdk = project.properties["android_minSdk"].toString().toInt()
         targetSdk = project.properties["android_targetSdk"].toString().toInt()
 
-        applicationId = "li.songe.gkd"
+        applicationId = "li.songe.gkd.li"
         versionCode = 65
         versionName = "1.10.4"
 
